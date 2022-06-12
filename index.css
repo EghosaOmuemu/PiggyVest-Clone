@@ -139,7 +139,7 @@ section.header{
         margin-left: -50px;
     }
     .rect, .headerImg{
-        max-width: 300px;
+        max-width: 320px;
     }
 }
 
@@ -192,6 +192,11 @@ section.header h1{
 
     .downldBtn {
         padding: 14.5px 5px;
+    }
+
+    .rect, .headerImg{
+        max-width: 250px;
+        max-height: 400px;
     }
 }
 
